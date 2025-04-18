@@ -25,3 +25,6 @@ cd python-caffeine-lite
 
 ### 2. Install the required library
 pip install keyboard
+
+### 3. Run the script
+python caffeine_py.py
